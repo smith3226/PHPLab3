@@ -1,0 +1,29 @@
+[
+    {
+        "fullname": "Smith Dias",
+        "email": "smithdias3226@gmail.com",
+        "phone": "123456789",
+        "degree": "BE",
+        "field_of_study": "CS",
+        "institution": "HUMBER",
+        "year_of_graduation": "2019",
+        "job_title": "xyz",
+        "company": "apple",
+        "experience": "3",
+        "responsibilities": "ABCD"
+    },
+    {
+        "fullname": "Aditya Purohit",
+        "email": "adi@gmail.com",
+        "phone": "1234",
+        "degree": "BE",
+        "field_of_study": "CS",
+        "institution": "HUMBER",
+        "year_of_graduation": "2009",
+        "job_title": "Software developer",
+        "company": "TD",
+        "experience": "7",
+        "responsibilities": "jknkjn"
+    }
+    
+]

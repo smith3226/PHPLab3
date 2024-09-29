@@ -1,0 +1,22 @@
+[
+    {
+        "username": "Smith",
+        "email": "smithdias3226@gmail.com",
+        "password": "$2y$10$Y\/7cC7eQVNL56mEG.ZKlGuCFlDvPZ0qKOjRGbU.sVJY0ZK9o70FQu"
+    },
+    {
+        "username": "Sharal",
+        "email": "sha@gmail.com",
+        "password": "$2y$10$eS\/BH0\/COS4f6SNDtjSUC.RPdayAvwD2U.XsXwKG\/ilBToCIE9jPW"
+    },
+    {
+        "username": "shawn",
+        "email": "shw@gmail.com",
+        "password": "$2y$10$ycaoqrHGFjBh9zfR0kBb7eaNXwps9CihKNyhypFIPSUUcMR8hXtLy"
+    },
+    {
+        "username": "Aditya",
+        "email": "adi@gmail.com",
+        "password": "$2y$10$xxBYw\/CxQk6tavbUCNcnduTP9lK0uUiU4WebiT\/ENtf6JK5pAfaUC"
+    }
+]
